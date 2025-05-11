@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2GIQHvvbGtAyX01l/MEp36DIrZ7Czyfj0XcwBFHFu2k=",
+  "Source": "backend-ecommerce",
+  "BasePath": "_content/backend-ecommerce",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
