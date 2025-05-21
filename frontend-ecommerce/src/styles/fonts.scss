@@ -1,0 +1,13 @@
+@use 'tipografia.scss' as typo;
+@font-face {
+    font-family: typo.$fuente-principal;
+    src: url('../assets/fonts/Montserrat-Black.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: typo.$fuente-secundaria;
+    src: url('../assets/fonts/Calsans-Regular.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}

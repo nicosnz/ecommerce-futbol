@@ -1,0 +1,5 @@
+@use 'tipografia.scss' as typo;
+body{
+    font-family: typo.$fuente-principal;
+    background-color: black;
+}

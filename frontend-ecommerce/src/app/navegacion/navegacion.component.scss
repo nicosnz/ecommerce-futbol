@@ -1,0 +1,12 @@
+@use '../../styles/tipografia.scss' as typo;
+.my-nav{
+    background-color: #ebf400;
+}
+.boton-personalizado{
+    background-color: black;
+
+}
+.boton-personalizado:hover {
+  background-color: black;
+  color: white;
+}
